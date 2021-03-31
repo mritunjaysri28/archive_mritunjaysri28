@@ -14,4 +14,4 @@ I am looking to solve real world problems to make day to day life easy.
   </ul>
 </details>
 
-![mritunjaysrivastava github stats](https://github-readme-stats.vercel.app/api?username=mritunjaysrivastava&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000&theme=dark)
+![mritunjaysrivastava github stats](https://github-readme-stats.vercel.app/api?username=mritunjaysrivastava&hide=contribs,prs&show_icons=true&hide_border=true&theme=dark)
