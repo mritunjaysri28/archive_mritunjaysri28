@@ -9,7 +9,7 @@ I am looking to solve real world problems to make day to day life easy.
  
  <ul>
    <li> Efficiently automate system </li>
-   <li> Working with Python </li>
+   <li> Working with Python | SQL | Numpy | Pandas </li>
    <li> Playing around with Data </li>
   </ul>
 </details>
