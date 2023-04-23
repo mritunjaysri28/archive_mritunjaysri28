@@ -14,6 +14,6 @@ I am looking to solve real world problems to make day to day life easy.
   </ul>
 </details>
 
-![mritunjaysrivastava github stats](https://github-readme-stats.vercel.app/api?username=mritunjaysrivastava&hide=contribs,prs&show_icons=true&hide_border=true&theme=dark)
+![mritunjaysri28 github stats](https://github-readme-stats.vercel.app/api?username=mritunjaysri28&hide=contribs,prs&show_icons=true&hide_border=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaysrivastava&layout=compact&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjaysri28&layout=compact&hide_border=true&theme=dark)
